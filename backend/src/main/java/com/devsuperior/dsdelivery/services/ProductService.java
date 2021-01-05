@@ -1,7 +1,7 @@
 package com.devsuperior.dsdelivery.services;
 
 
-import com.devsuperior.dsdelivery.ProductDTO;
+import com.devsuperior.dsdelivery.dto.ProductDTO;
 
 import com.devsuperior.dsdelivery.entities.Product;
 import com.devsuperior.dsdelivery.repositories.ProductRepository;

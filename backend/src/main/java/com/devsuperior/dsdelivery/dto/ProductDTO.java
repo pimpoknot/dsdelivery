@@ -1,4 +1,4 @@
-package com.devsuperior.dsdelivery;
+package com.devsuperior.dsdelivery.dto;
 
 import com.devsuperior.dsdelivery.entities.Product;
 

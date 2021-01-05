@@ -1,7 +1,6 @@
 package com.devsuperior.dsdelivery.controllers;
 
-import com.devsuperior.dsdelivery.ProductDTO;
-import com.devsuperior.dsdelivery.entities.Product;
+import com.devsuperior.dsdelivery.dto.ProductDTO;
 import com.devsuperior.dsdelivery.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
